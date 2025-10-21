@@ -1,0 +1,12 @@
+[submodule "auth-matrix"]
+	path = auth-matrix
+	url = git@github.com:thirty30ww/auth-matrix.git
+[submodule "frontstage"]
+	path = frontstage
+	url = git@github.com:thirty30ww/prose-pulse-frontstage.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:thirty30ww/prose-pulse-backend.git
+[submodule "backstage"]
+	path = backstage
+	url = git@github.com:thirty30ww/prose-pulse-backstage.git
