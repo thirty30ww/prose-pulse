@@ -10,3 +10,6 @@
 [submodule "backstage"]
 	path = backstage
 	url = git@github.com:thirty30ww/prose-pulse-backstage.git
+[submodule "shared-api"]
+	path = shared-api
+	url = git@github.com:thirty30ww/prose-pulse-shared-api.git
